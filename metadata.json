@@ -1,0 +1,6 @@
+{
+  "name": "StudyQuiz AI - Practice Quiz Assistant",
+  "description": "Generate 3-question practice quizzes from study material, submit answers, and get scores out of 3 with explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
